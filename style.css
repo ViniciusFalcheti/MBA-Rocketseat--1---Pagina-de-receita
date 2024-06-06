@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #573824;
+}
+
+.principal {
+    background-color: #F0E8C2;
+    width: 800px;
+    display: flex;
+    /* justify-content: center; */
+    
+    padding: 20px;
+    margin: 30px 80px 40px;
+    border-radius: 15px;
+}
+
+.img-topo{
+    /* background-color: aquamarine;
+    background-image: url("main-image.png"); */
+    /* width: 752px; */
+    width: 800px;
+    border-radius: 15px;
+
+}
